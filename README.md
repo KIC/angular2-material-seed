@@ -5,7 +5,7 @@ This is really just a seed for a very simple layout like this:
 
 For config optiosn see: https://teradata.github.io/covalent/#/layouts/nav-view
 
-The whole seup can be a bi bitchy, therefor I have also provided a Dockerfile:
+The whole seup can be a bit bitchy, therefore I have also provided a Dockerfile:
 ```
 FROM node
 
