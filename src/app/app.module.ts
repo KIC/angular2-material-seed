@@ -13,13 +13,11 @@ import { CovalentDynamicFormsModule } from '@covalent/dynamic-forms';
 
 // My Stuff
 import { AppComponent } from './app.component';
-import { ChartJSComponent } from './chartjs.component';
 import { ROUTES } from './routes';
 
 @NgModule({
   declarations: [
-    AppComponent,
-    ChartJSComponent
+    AppComponent
   ],
   imports: [
     BrowserModule,
